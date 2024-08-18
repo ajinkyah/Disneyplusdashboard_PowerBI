@@ -48,10 +48,6 @@ The disneylogo.jpg file is included for branding purposes. You can use it in the
   Branding the Dashboard: Incorporate the logo in your Power BI report for consistent branding.
   Marketing Material: Use the logo in presentations, reports, or other related materials.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Acknowledgments
 
   Power BI: For providing a powerful tool to create and share interactive data visualizations.
